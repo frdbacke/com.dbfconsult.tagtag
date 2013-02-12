@@ -38,6 +38,6 @@
 	</dependencies>
 
 	<scm>
-		<developerConnection>scm:git:git://github.com/com.dbfconsult.tagtag</developerConnection>
+		<developerConnection>scm:git:git@github.com:com.dbfconsult.tagtag.git</developerConnection>
 	</scm>
 </project>

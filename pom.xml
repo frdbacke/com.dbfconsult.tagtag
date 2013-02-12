@@ -9,15 +9,6 @@
 		<groupId>com.dbfconsult</groupId>
 		<version>0.0.1</version>
 	</parent>
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-release-plugin</artifactId>
-				<version>2.2.1</version>
-			</plugin>
-		</plugins>
-	</build>
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.axis</groupId>
@@ -47,6 +38,6 @@
 	</dependencies>
 
 	<scm>
-		<developerConnection>scm:git:git@github.com:com.dbfconsult.tagtag.git</developerConnection>
+		<developerConnection>scm:git:git://github.com/com.dbfconsult.tagtag</developerConnection>
 	</scm>
 </project>

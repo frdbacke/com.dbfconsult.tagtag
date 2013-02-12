@@ -3,12 +3,21 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.dbfconsult</groupId>
 	<artifactId>com.dbfconsult.tagtag</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<parent>
 		<artifactId>com.dbfconsult.parentpom</artifactId>
 		<groupId>com.dbfconsult</groupId>
 		<version>0.0.1</version>
 	</parent>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-release-plugin</artifactId>
+				<version>2.2.1</version>
+			</plugin>
+		</plugins>
+	</build>
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.axis</groupId>
@@ -38,6 +47,6 @@
 	</dependencies>
 
 	<scm>
-		<developerConnection>scm:git:git://github.com/com.dbfconsult.tagtag</developerConnection>
+		<developerConnection>scm:git:git@github.com:frdbacke/com.dbfconsult.tagtag.git</developerConnection>
 	</scm>
 </project>

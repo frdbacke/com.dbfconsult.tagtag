@@ -1,0 +1,5 @@
+#surefire
+#Tue Feb 12 22:01:56 CET 2013
+user.dir=/home/frdbacke/java/eclipse-workspace/com.dbfconsult.tagtag
+localRepository=/home/frdbacke/.m2/repository
+basedir=/home/frdbacke/java/eclipse-workspace/com.dbfconsult.tagtag

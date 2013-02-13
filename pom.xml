@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.dbfconsult</groupId>
 	<artifactId>com.dbfconsult.tagtag</artifactId>
-	<version>0.0.5</version>
+	<version>0.0.6-SNAPSHOT</version>
 	<parent>
 		<artifactId>com.dbfconsult.parentpom</artifactId>
 		<groupId>com.dbfconsult</groupId>
